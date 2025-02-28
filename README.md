@@ -1,7 +1,7 @@
 # grideye-driver
 Python driver for the Panasonic AMG88 Grid-EYE infrared array sensor.
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rogiervandergeer/grideye-driver/Continuous%20Integration) 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rogiervandergeer/grideye-driver/test.yaml?branch=main) 
 ![PyPI](https://img.shields.io/pypi/v/grideye-driver)
 ![PyPI - License](https://img.shields.io/pypi/l/grideye-driver)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/grideye-driver) 
